@@ -1,0 +1,24 @@
+
+
+Respoostas
+
+1. Você é um Engenheiro de Software de um time de desenvolvimento e
+implementou o código abaixo em Python para converter, a posteriori, para um
+dispositivo Android com 200KB de memória.
+1.1 Qual a maior instância de problema que ele conseguirá resolver?
+
+ R- Será a do algoritmo para compressão 
+
+1.2 Qual a ordem de complexidade computacional estimada para este código?
+ R- de alta complexidade pois o SO devera ficar recalculando o tamanho ate chegar o mais proximo do definido.
+
+1.3 Qual o custo ótimo para se resolver um problema desses? explique os
+porquês?
+ R- sera o que faz a tarefa em menor tempo utilizado pouca memoria. pois se demorar terá perca de processamento por maior tempo.
+
+2. 1.5. Consider the seven software categories presented in Section 1.1.2. Do you
+think that the same approach to software engineering can be applied for each?
+Explain your answer.
+
+sim, pois em se tratando do molde de saída serão aplicadas as mesmas regras descritas no codigo, se na busca fornecida pelo codigo
+não aparecer os parametros especificados ainda assim as regras da engenharia serão aplicadas.
